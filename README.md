@@ -1,38 +1,46 @@
-- 🚀 Transforming Ideas into Innovations 🌟 | Computer Science Enthusiast
+# 👋🏽 Hi, I'm Anup Raj Gudisse
 
-- 🔹 Seeking to bridge the gap between cutting-edge technology and creative solutions
-- 🔹 Currently pursuing a Master's in Computer Science at the University of Illinois at Chicago
+I build thoughtful, data-informed software experiences that balance usability, reliability, and measurable impact. From reimagining legacy systems at the Chicago Transit Authority to crafting responsive web presences for UIC's marketing teams, I enjoy turning complex requirements into elegant, production-ready products.
 
-- 🎯 Skills:
-- ✔ Proficient in Python, Java, C, SQL
-- ✔ Expertise in HTML, CSS, JavaScript, and PHP
-- ✔ Detail-oriented and organized with strong communication skills
-- ✔ Time management and multitasking abilities
+## 🔎 Snapshot
+- 📍 Based in Chicago, IL — open to full-time software engineering roles starting May 2025
+- 🎓 M.S. Computer Science @ University of Illinois Chicago (Data Science, AI/ML, Advanced CV)
+- 🛠️ Strengths across full-stack web, data engineering, and applied machine learning
+- 🤝 Collaborative by default: I thrive in cross-functional teams and ship iteratively with feedback
 
-- 🛠️ Notable Projects:
-- 🌐 Sign Language Recognition System using CNN: Unleashed the power of CNN models to predict sign language from live camera gestures.
-- 🍽️ Inverse Cooking Recipe Generation from Food Images: Pioneered a system that generates cooking instructions from images and ingredients.
-- 🛒 Annadatha: Crafted a dynamic web-based e-commerce platform, connecting farmers and buyers for seamless transactions.
-- 💰 Basic Banking System: Developed a web-based banking application, recording every transaction with precision.
+## 🚀 What I'm Delivering
+- **Learning Management System modernization (CTA)**: Designed and launched a Django-powered LMS with secure RBAC, REST APIs, and AWS Redshift storage — eliminating 90%+ of manual recordkeeping while unlocking real-time Power BI insights for 20+ stakeholders.
+- **Data migration & analytics pipelines**: Engineered Python/Pandas ETL flows that transformed 30 years of bus mechanic training data, boosting validation accuracy by 95% and cutting processing time by 70%.
+- **Searchable training intelligence**: Replaced brittle free-text inputs with curated data models and dropdowns, improving lookup efficiency by 50% for instructors and managers.
+- **WCAG-conscious digital experiences (UIC Creative & Digital Services)**: Maintain SEO-optimized WordPress sites with 99.9% uptime, partnering with design, video, and photo teams to ship accessible UI enhancements 35% faster.
 
-- 🌐 Experience & Internship:
-- 👥 Intel Student Ambassador (Aug 2023 – Present): Actively engaged in the tech community, building valuable connections, and staying at the forefront of industry trends.
-- 🤖 AWS Academy AI-ML Virtual Internship (Mar 2022 – May 2022): Hands-on experience and mentorship in AI and ML technologies.
+## 💡 Selected Projects
+- **Moment – Photography-first social platform** · React, Node.js, Supabase, Tailwind
+  - Built secure auth, real-time feeds, and a responsive UI to help photographers connect and collaborate.
+- **Budget-Friendly Trip Planner** · React Native, Firebase, Google Maps API, OpenAI
+  - Crafted a cross-platform travel assistant with optimized Firestore queries, delivering 35% faster responses across 100+ simulated trip searches.
+- **Predictive Analytics for Vacant Buildings & Crime Trends** · Python, Streamlit, ARIMA, K-Means, DBSCAN
+  - Correlated 10+ years of Chicago datasets to surface ward-level risk insights with ~75% prediction accuracy.
+- **Energy-Efficient Deep Learning via ISP & QLoRA** · Hugging Face, LoRA, Quantization
+  - Reduced Gemma-3B inference costs by combining pruning and quantization for 69% lower memory usage and 32% faster throughput.
 
-- Certificates:
-- 🔷 NPTEL – Joy of Computing Using Python, Programming Data Structures and Algorithms using Python
-- 🔷 Oracle – Database Management System
-- 🔷 Cisco – Introduction to Networks
+## 🧰 Technical Toolkit
+**Languages:** Python, SQL, Java, C/C++, JavaScript/TypeScript, HTML/CSS
 
-- 📚 Education:
-- 🎓 Master's in Computer Science, University of Illinois at Chicago, Chicago, IL, USA (2023-2025)
-- 🎓 Bachelor of Engineering in Information Technology, Gokaraju Rangaraju Institute of Engineering and Technology, India (2020-2023)
-- 🎓 Diploma in Computer Engineering, Government Polytechnic Masabtank, Hyderabad, India (2017-2020)
+**Frameworks & Libraries:** Django, React, Node.js/Express, React Native, Flask, TensorFlow, scikit-learn, Pandas, NumPy, OpenCV, Streamlit, Tailwind CSS, Bootstrap, WordPress
 
-🔗 Let's Connect and Innovate Together:
-Open to exciting opportunities that challenge my skills and expand my horizons! Connect with me at linkedin.com/in/anuprajgudisse.
+**Data & Cloud:** PostgreSQL, MySQL, NoSQL, AWS (Redshift, S3), Azure (Data Factory, Blob, Synapse), Firebase, Supabase, Kafka, Spark, Hadoop, Power BI, Tableau
 
-📧 Email: anuprajgudisse@gmail.com
-🌐 GitHub: github.com/anuprajgudisse
+**Dev Experience:** Git, GitHub Actions, Jira, Docker, Kubernetes, ActiveBatch
 
-#ComputerScience #Innovation #TechnologyEnthusiast #ProblemSolver #CreativeSolutions #DataScience #DataAnalyst #WebDevelopment
+## 🎯 How I Work
+- User-focused: I start with the problem statement, prototype quickly, and validate with real users.
+- Reliable delivery: Agile habits, transparent communication, and quality gates keep projects on track.
+- Continuous learner: Whether it's LoRA optimization or WCAG compliance, I stay curious and document what I find.
+
+## 📬 Let's Build Something
+- 🌐 Portfolio: [anup-raj.vercel.app](https://anup-raj.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/anuprajgudisse](https://linkedin.com/in/anuprajgudisse)
+- ✉️ Email: [anuprajgudisse@gmail.com](mailto:anuprajgudisse@gmail.com)
+
+If you're looking to modernize legacy systems, craft resilient web apps, or turn data into action, I'm ready to collaborate.
